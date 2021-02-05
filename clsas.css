@@ -1,0 +1,57 @@
+*{
+  margin: 0%;
+  padding: 0%;  
+}
+
+body {
+    background-image: url(./images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cd {
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: whitesmoke;
+    border: 1px solid white;
+    width: 450px;
+    height: 450px;
+
+}
+
+#img {
+    margin-left: 160px;
+    margin-top: 50px;
+}
+
+#name {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    margin-left:32% ;
+    margin-top: 5%;
+    font-optical-sizing: ;
+}
+
+#psy {
+    margin-left: 20%;
+
+}
+
+#ins {
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+#fc {
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+#tw {
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+}

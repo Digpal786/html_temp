@@ -1,0 +1,21 @@
+body {
+    background-image: url(./images/house-forest-260nw-601559624.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#rain {
+    background-image: url(./images/rain_PNG13468.png.crdownload);
+    
+    height: 100vh;
+    animation: rain 10s linear 1s 10;
+}
+@keyframes rain {
+    form {
+        background-position: 0 0 ;
+    }
+    to {
+        background-position: 100px 100px;
+
+    }
+}

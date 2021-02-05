@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#id1 {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    border: blue 10px solid;
+   padding: 150px;
+}
+
+#id2 {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    border:red 10px solid;
+    padding: 150px;
+   
+}
+
+#id3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: black 10px solid;
+    padding: 150px;
+}
+
+#id4 {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    border:orangered 10px solid;
+    padding: 150px;
+    
+}
+
+#main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+}

@@ -1,0 +1,25 @@
+#square {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    animation: circle 5s linear 1s infinite;
+    position: relative;
+}
+
+@keyframes circle {
+    from{
+        left: 0px;
+    }
+    to{
+        left: 600px;
+        border-radius: 80px;
+    }
+}
+
+@font-face {
+    font-family: dsp;
+    src: url(./fonts/NightinTokyo.ttf);
+}
+.id {
+    font-family: dsp;
+}
